@@ -1,9 +1,9 @@
 import React from 'react'
-import { data } from '../../helpers/data'
+
 
 const Card = (data) => {
   
-  const {id,title,image,desc} = data;
+  const {title,image,desc} = data;
 
   return (
     <div className="cards">
