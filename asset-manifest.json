@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hansakose/Tour_Places/static/css/main.f7eb296d.css",
-    "main.js": "/hansakose/Tour_Places/static/js/main.fd2144ba.js",
-    "static/js/787.614208f3.chunk.js": "/hansakose/Tour_Places/static/js/787.614208f3.chunk.js",
-    "index.html": "/hansakose/Tour_Places/index.html",
-    "main.f7eb296d.css.map": "/hansakose/Tour_Places/static/css/main.f7eb296d.css.map",
-    "main.fd2144ba.js.map": "/hansakose/Tour_Places/static/js/main.fd2144ba.js.map",
-    "787.614208f3.chunk.js.map": "/hansakose/Tour_Places/static/js/787.614208f3.chunk.js.map"
+    "main.css": "/Tour_Places/static/css/main.f7eb296d.css",
+    "main.js": "/Tour_Places/static/js/main.312361b8.js",
+    "static/js/787.614208f3.chunk.js": "/Tour_Places/static/js/787.614208f3.chunk.js",
+    "index.html": "/Tour_Places/index.html",
+    "main.f7eb296d.css.map": "/Tour_Places/static/css/main.f7eb296d.css.map",
+    "main.312361b8.js.map": "/Tour_Places/static/js/main.312361b8.js.map",
+    "787.614208f3.chunk.js.map": "/Tour_Places/static/js/787.614208f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7eb296d.css",
-    "static/js/main.fd2144ba.js"
+    "static/js/main.312361b8.js"
   ]
 }
