@@ -1,6 +1,6 @@
 {
-  "homepage":"https://github.com/hansakose/Tour-Places",
-  "name": "react-tour-places",
+  "homepage":"https://github.com/hansakose/Tour_Places",
+  "name": "Tour_Places",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
